@@ -34,3 +34,4 @@ svg.addEventListener("mousedown", startDrawing);
 svg.addEventListener("mousemove", draw);
 svg.addEventListener("mouseup", stopDrawing);
 clearBtn.addEventListener("click", clearAll);
+
